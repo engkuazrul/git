@@ -1,0 +1,17 @@
+git init
+git add .
+git status
+git reset
+git commit -m "new message"
+git branch -M [main_branch_name]
+git branch [branch_name]
+git checkout [branch_name]
+git remote add origin [git_url]
+git push -u origin
+git branch -d [branch_name]
+git push origin --delete [branch_name]
+git pull
+git push
+git checkout -b [new_branch_name] [existing_branch_name]
+git merge --no-ff [new_branch_name]
+git merge [branch_name]
