@@ -19,3 +19,4 @@ git fetch origin
 git checkout -b [new_branch_name] origin/[existing_branch_name]
 git branch -a
 git branch -r
+git clone --branch <branchname> <remote-repo-url>
