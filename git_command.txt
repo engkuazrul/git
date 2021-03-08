@@ -21,3 +21,8 @@ git branch -a
 git branch -r
 git clone --branch <branchname> <remote-repo-url>
 git config --global push.default current
+
+git reset HEAD <file>
+git reset
+git stash
+git reset --hard
