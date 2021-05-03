@@ -26,3 +26,6 @@ git reset HEAD <file>
 git reset
 git stash
 git reset --hard
+
+git remote -v
+git remote set-url origin new.git.url/here
