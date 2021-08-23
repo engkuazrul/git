@@ -29,3 +29,5 @@ git reset --hard
 
 git remote -v
 git remote set-url origin new.git.url/here
+
+git clone https://<Personal Access Token>@github.com/<Org name>/<Repo_name>.git
